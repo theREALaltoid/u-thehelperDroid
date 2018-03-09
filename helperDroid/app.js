@@ -27,45 +27,34 @@ const comments = client.CommentStream(streamOpts);
 comments.on('comment', (comment) => {
     console.log(comment);
         if (comment.body.includes('I want to die')) {
-    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s");
+    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s\n\r\n\r [source](https://github.com/TheTRUEHoohah/u-thehelperDroid) | [contact]()");
 }
 
     if (comment.body.includes('I hate being bullied')) {
-    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s");
+    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s\n\r\n\r [source](https://github.com/TheTRUEHoohah/u-thehelperDroid) | [contact]()");
 }
 
     if (comment.body.includes('Im tired of being depressed')){
-    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s");
+    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s\n\r\n\r [source](https://github.com/TheTRUEHoohah/u-thehelperDroid) | [contact]()");
 }
 
     if (comment.body.includes('I hate being bullied for being gay')) {
-    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s");
+    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s\n\r\n\r [source](https://github.com/TheTRUEHoohah/u-thehelperDroid) | [contact]()");
 }
 
 if (comment.body.includes('Im gonna shoot myself')) {
-    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s");
+    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s\n\r\n\r [source](https://github.com/TheTRUEHoohah/u-thehelperDroid) | [contact]() ");
 }
 if (comment.body.includes('I make myself throw up')) {
-    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s");
+    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s\n\r\n\r [source](https://github.com/TheTRUEHoohah/u-thehelperDroid) | [contact]()");
 }
 
 if (comment.body.includes('I want to shoot myself')) {
-    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s");
+    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s\n\r\n\r [source](https://github.com/TheTRUEHoohah/u-thehelperDroid) | [contact]()");
 }
 if (comment.body.includes('I want to hang myself')) {
-    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s");
+    comment.reply("Helperdroid and its creator love you, here's some people that can help:\n\r\n\r https://pastebin.com/iAhaF92s\n\r\n\r [source](https://github.com/TheTRUEHoohah/u-thehelperDroid) | [contact]() ");
 }
-
-
-
-
-
-
-
-
-
-
-
 });
 
 
