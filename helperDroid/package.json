@@ -1,0 +1,26 @@
+{
+  "name": "thehelperdroid",
+  "version": "1.0.0",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.1"
+  },
+  "description": "Bot that delivers suicide hotlines. The guide that helped build this bot can be found here https://blog.syntonic.io/2017/07/07/reddit-bot-nodejs-example/",
+  "main": "initial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTRUEHoohah/u-thehelperDroid.git"
+  },
+  "author": "theTRUEhoohah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheTRUEHoohah/u-thehelperDroid/issues"
+  },
+  "homepage": "https://github.com/TheTRUEHoohah/u-thehelperDroid"
+}
